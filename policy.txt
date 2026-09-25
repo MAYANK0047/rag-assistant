@@ -1,0 +1,211 @@
+# Meridian Consulting Group — Employee Policy Handbook
+
+**Document ID:** MCG-HR-POL-2026
+**Version:** 3.2
+**Effective Date:** January 1, 2026
+**Owner:** Human Resources Department
+**Applies To:** All full-time, part-time, and contract employees of Meridian Consulting Group ("the Company")
+
+---
+
+## 1. Introduction and Scope
+
+### 1.1 Purpose
+This Handbook establishes the policies, procedures, and standards of conduct that govern employment at Meridian Consulting Group. It is intended to provide employees with a clear understanding of their rights, responsibilities, and the benefits available to them.
+
+### 1.2 Applicability
+This Handbook applies to all employees across all Company offices, including remote employees, unless a specific policy states otherwise. Contractors and interns are subject to Sections 3, 6, and 9 only, unless their engagement letter specifies additional sections.
+
+### 1.3 Policy Precedence
+Where a specific written agreement (such as an offer letter or union agreement) conflicts with this Handbook, the specific agreement takes precedence. In all other cases, this Handbook governs.
+
+### 1.4 Amendments
+The Company reserves the right to amend this Handbook at any time. Material changes will be communicated to employees at least 15 business days before taking effect, except where changes are required by law, in which case they take effect immediately.
+
+---
+
+## 2. Employment Classification
+
+### 2.1 Categories of Employment
+- **2.1.1 Full-Time Employees:** Individuals regularly scheduled to work 35 or more hours per week.
+- **2.1.2 Part-Time Employees:** Individuals regularly scheduled to work fewer than 35 hours per week.
+- **2.1.3 Temporary Employees:** Individuals hired for a specific project or a fixed duration not exceeding 12 months.
+- **2.1.4 Independent Contractors:** Individuals engaged under a separate contractor agreement and not eligible for employee benefits under Section 6.
+
+### 2.2 Probationary Period
+All new full-time and part-time employees serve a probationary period of 90 calendar days from their date of joining. During this period, either party may terminate employment with 7 days' written notice, as detailed in Section 9.2.
+
+### 2.3 Work Hours and Attendance
+- **2.3.1 Standard Hours:** The standard work week is Monday through Friday, 9:00 a.m. to 6:00 p.m., with a one-hour unpaid lunch break.
+- **2.3.2 Flexible Work Arrangements:** Employees may request flexible scheduling through their manager and HR Business Partner. Approval is at the sole discretion of the department head.
+- **2.3.3 Attendance Reporting:** Employees must log attendance through the Company's HRMS portal by 9:15 a.m. each working day. Repeated failure to do so may result in disciplinary action under Section 8.
+
+---
+
+## 3. Code of Conduct
+
+### 3.1 General Standards of Behavior
+Employees are expected to act with integrity, treat colleagues and clients with respect, and avoid conduct that could damage the Company's reputation.
+
+### 3.2 Anti-Harassment and Anti-Discrimination
+- **3.2.1 Zero-Tolerance Policy:** The Company prohibits harassment or discrimination based on race, gender, age, religion, disability, sexual orientation, or any other legally protected characteristic.
+- **3.2.2 Reporting Procedure:** Complaints must be reported to HR or through the confidential ethics hotline within 90 days of the incident. See Section 8.4 for the investigation process.
+- **3.2.3 Retaliation Prohibited:** Retaliation against anyone who reports harassment in good faith is strictly prohibited and is itself grounds for termination.
+
+### 3.3 Conflicts of Interest
+Employees must disclose any outside employment, financial interest, or personal relationship that could reasonably be seen to conflict with the Company's interests, using Form HR-14, within 10 business days of the conflict arising.
+
+### 3.4 Gifts and Business Courtesies
+Employees may not accept gifts from vendors or clients valued at more than $75 without written approval from their department head.
+
+### 3.5 Use of Company Property
+Company equipment, including laptops, phones, and access badges, must be used primarily for business purposes and returned in good condition upon separation, per Section 9.5.
+
+---
+
+## 4. Leave and Time-Off Policies
+
+### 4.1 Annual (Vacation) Leave
+- **4.1.1 Accrual:** Full-time employees accrue 1.75 days of paid vacation per completed month of service, totaling 21 days per year.
+- **4.1.2 Carryover:** A maximum of 5 unused vacation days may be carried over into the next calendar year. Any excess is forfeited on December 31.
+- **4.1.3 Approval:** Vacation requests of 3 or more consecutive days require manager approval at least 2 weeks in advance.
+
+### 4.2 Sick Leave
+- **4.2.1 Entitlement:** Employees are entitled to 12 days of paid sick leave per calendar year, credited in full at the start of the year.
+- **4.2.2 Medical Certification:** A medical certificate is required for sick leave exceeding 2 consecutive days.
+- **4.2.3 Unused Sick Leave:** Unused sick leave does not carry over and is not paid out upon separation.
+
+### 4.3 Parental Leave
+- **4.3.1 Primary Caregiver Leave:** Employees designated as the primary caregiver are entitled to 16 weeks of paid parental leave.
+- **4.3.2 Secondary Caregiver Leave:** Secondary caregivers are entitled to 4 weeks of paid parental leave.
+- **4.3.3 Eligibility:** Employees must have completed at least 6 months of continuous service to qualify for paid parental leave under 4.3.1 and 4.3.2.
+
+### 4.4 Bereavement Leave
+Employees may take up to 5 paid days of bereavement leave for the death of an immediate family member, and up to 2 days for extended family, as defined in the Glossary (Section 11).
+
+### 4.5 Leave Without Pay
+Unpaid leave of up to 30 days may be granted at the discretion of the department head, subject to HR approval, and does not accrue vacation or sick leave under Sections 4.1 and 4.2.
+
+---
+
+## 5. Compensation and Payroll
+
+### 5.1 Pay Schedule
+Employees are paid on a semi-monthly basis, on the 15th and last business day of each month.
+
+### 5.2 Overtime
+- **5.2.1 Eligibility:** Non-exempt employees who work beyond 40 hours in a week are eligible for overtime pay at 1.5 times their regular hourly rate.
+- **5.2.2 Prior Approval Required:** Overtime must be pre-approved by a manager; unapproved overtime may not be compensated.
+
+### 5.3 Performance Bonuses
+Annual discretionary bonuses, where awarded, are paid in the first payroll cycle of March and are contingent on both individual performance ratings and overall Company performance.
+
+### 5.4 Salary Reviews
+Salary reviews are conducted annually in Q4, effective January 1 of the following year, based on the performance evaluation process outlined in Section 7.
+
+---
+
+## 6. Benefits
+
+### 6.1 Health Insurance
+- **6.1.1 Coverage:** The Company provides group medical insurance covering the employee, spouse, and up to 2 dependent children, effective from the first day of employment.
+- **6.1.2 Premium Sharing:** The Company covers 80% of the premium; the remaining 20% is deducted from the employee's monthly pay.
+
+### 6.2 Retirement Savings Plan
+Employees become eligible to enroll in the Company's retirement savings plan after 3 months of service. The Company matches employee contributions up to 4% of base salary.
+
+### 6.3 Wellness Benefits
+Employees may claim up to $500 per calendar year for gym memberships, fitness classes, or mental health counseling under the Wellness Reimbursement Program.
+
+### 6.4 Professional Development
+Employees may request reimbursement of up to $1,500 per year for job-related courses, certifications, or conferences, subject to manager pre-approval via Form HR-22.
+
+---
+
+## 7. Performance Management
+
+### 7.1 Performance Review Cycle
+Formal performance reviews are conducted twice a year: a mid-year check-in in July and an annual review in December.
+
+### 7.2 Rating Scale
+Employees are rated on a 5-point scale: Outstanding, Exceeds Expectations, Meets Expectations, Needs Improvement, and Unsatisfactory.
+
+### 7.3 Performance Improvement Plans (PIP)
+- **7.3.1 Initiation:** A PIP is initiated when an employee receives a "Needs Improvement" or "Unsatisfactory" rating.
+- **7.3.2 Duration:** PIPs run for 60 days, with a formal check-in at the 30-day mark.
+- **7.3.3 Outcomes:** Failure to meet PIP objectives may result in termination under Section 9.3.
+
+---
+
+## 8. Disciplinary Procedures
+
+### 8.1 Progressive Discipline
+The Company generally follows a progressive discipline model: verbal warning, written warning, final written warning, and termination. Serious misconduct may result in immediate termination, bypassing earlier steps.
+
+### 8.2 Grounds for Immediate Termination
+Includes, but is not limited to: theft, fraud, workplace violence, gross insubordination, and serious breaches of the Code of Conduct (Section 3).
+
+### 8.3 Appeals Process
+Employees may appeal a disciplinary decision in writing to HR within 10 business days of the decision being communicated.
+
+### 8.4 Investigation of Complaints
+All formal complaints, including those under Section 3.2, are investigated by HR within 30 days, with findings communicated to both parties in writing.
+
+---
+
+## 9. Separation from Employment
+
+### 9.1 Resignation
+Employees must provide a minimum of 30 days' written notice of resignation, except during the probationary period (see Section 2.2).
+
+### 9.2 Termination During Probation
+Either party may terminate the employment relationship during the probationary period with 7 days' written notice or payment in lieu thereof.
+
+### 9.3 Termination for Cause
+Termination for cause, including failure to complete a PIP under Section 7.3, may be effected without notice period, subject to applicable law.
+
+### 9.4 Severance
+Employees terminated without cause after completing probation are entitled to severance pay equal to 2 weeks' salary per completed year of service, up to a maximum of 26 weeks.
+
+### 9.5 Return of Company Property
+All Company property, including laptops, access cards, and confidential materials, must be returned within 5 business days of the last working day.
+
+### 9.6 Exit Interview
+HR will conduct an exit interview with all departing employees to gather feedback, except in cases of termination for cause.
+
+---
+
+## 10. Information Security and Data Privacy
+
+### 10.1 Confidentiality Obligations
+Employees must protect confidential Company and client information both during and after employment, in line with the confidentiality agreement signed at hiring.
+
+### 10.2 Acceptable Use of Technology
+- **10.2.1 Company Devices:** Company-issued devices must have encryption and endpoint security software enabled at all times.
+- **10.2.2 Personal Devices:** Personal devices used to access Company email or systems must be enrolled in the Mobile Device Management (MDM) program.
+
+### 10.3 Data Breach Reporting
+Any suspected data breach must be reported to the IT Security team within 4 hours of discovery, per the Incident Response Policy referenced in Appendix A.
+
+### 10.4 Remote Work Security
+Employees working remotely must connect to Company systems via the approved VPN and may not use public Wi-Fi to access confidential systems without VPN protection.
+
+---
+
+## 11. Glossary and Definitions
+
+- **Immediate Family:** Spouse, child, parent, or sibling.
+- **Extended Family:** Grandparent, grandchild, parent-in-law, or sibling-in-law.
+- **Exempt Employee:** An employee not entitled to overtime pay under Section 5.2, typically in a managerial, professional, or administrative role.
+- **Non-Exempt Employee:** An employee entitled to overtime pay under Section 5.2.
+- **Business Day:** Monday through Friday, excluding public holidays observed by the Company.
+
+---
+
+## Appendix A: Related Documents
+- Incident Response Policy (MCG-IT-SEC-014)
+- Code of Ethics Declaration Form (HR-14)
+- Professional Development Reimbursement Form (HR-22)
+- Employee Confidentiality Agreement (Template HR-01)
+
+*End of Document — Meridian Consulting Group Employee Policy Handbook, MCG-HR-POL-2026, v3.2*
